@@ -26,6 +26,7 @@ notebook watch analysis.md   # run it on every save and keep analysis.html curre
 | Repo | What it is |
 |------|------------|
 | [**notebook**](https://github.com/go-notebook/notebook) | the kernel, the `notebook` command and the HTML export (Go 1.27.2 or later) |
+| [**playground**](https://github.com/go-notebook/playground) | a notebook in the browser, cells interpreted in WebAssembly, no server — the imported libraries run compiled, only the notebook's own code is interpreted |
 | [**docs**](https://github.com/go-notebook/docs) | the documentation site (Hugo + Hextra), served at [/docs/](https://go-notebook.github.io/docs/) |
 | [**go-notebook.github.io**](https://github.com/go-notebook/go-notebook.github.io) | the landing page (Hugo) |
 | [**brand**](https://github.com/go-notebook/brand) | logo, icons and social images |
